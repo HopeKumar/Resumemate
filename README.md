@@ -67,17 +67,19 @@ export GEMINI_API_KEY=your_api_key_here
 Then open the notebook and run all cells.
 
 ## 📄 Example Output
+```
 {
   "match_score": 50,
   "missing_critical_skills": ["REST APIs"],
-  "rewritten_bullets": [
+  "rewritten_bullets":
+ [
     {
       "before": "Worked on Python scripts for automation.",
       "after": "Developed Python scripts to automate routine tasks."
     }
   ]
 }
-
+```
 ## 🔐 Security & Reliability
 
 API keys are never hardcoded
