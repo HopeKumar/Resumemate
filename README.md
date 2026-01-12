@@ -135,5 +135,5 @@ Rather than focusing on flashy UI, ResumeMate prioritizes engineering correctnes
 This project is released for educational and portfolio use.
 
 ## 👤 Author
-J Hope Kumar 📧 kumarhope2018@gmail.com
+J Hope Kumar 📧 kumarhope2018@gmail.com ---
 🔗 LinkedIn: https://linkedin.com/in/12HOPE
