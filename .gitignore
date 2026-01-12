@@ -1,0 +1,20 @@
+# ---- Secrets & environment files ----
+.env
+.env.*
+*.env
+
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+
+# ---- Jupyter / Kaggle notebook artifacts ----
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ---- Logs & temporary files ----
+*.log
+*.tmp
+
+# ---- OS-specific junk ----
+.DS_Store
+Thumbs.db
